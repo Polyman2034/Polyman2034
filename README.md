@@ -76,16 +76,7 @@ My approach is simple: **Learn • Build • Experiment • Improve 🚀**
   </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Polyman2034&show_icons=true&theme=dark&hide_border=true" alt="Saiprasad's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polyman2034&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
-
----
 
 ## ⚡ A Little More About Me
 
