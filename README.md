@@ -1,140 +1,64 @@
 # Hi 👋, I'm Saiprasad Kawdikar
 
-### Computer Engineering Student | Software & AI Developer | Systems & Intelligent Applications
+### Computer Engineering Student | AI & Software Developer | Building Intelligent Solutions
 
-I'm a Computer Engineering student interested in building software systems that solve practical problems.
+I’m a Computer Engineering student passionate about software development, Artificial Intelligence, and problem solving. I enjoy turning ideas into practical, user-focused applications and continuously exploring new technologies through hands-on projects.
 
-My current focus is on **C++, Data Structures & Algorithms, Artificial Intelligence, and systems-oriented software development**. I learn primarily by building projects, experimenting with different approaches, and understanding how things work underneath the abstractions.
+My current focus is on building AI-powered applications, learning Agentic AI and LLM-based systems, and strengthening my Data Structures & Algorithms skills. I’m also exploring full-stack development, databases, cloud technologies, and AI/ML to understand how complete software systems are designed and built.
 
-I'm particularly interested in the intersection of **AI and software engineering** — from LLM and agentic systems to backend infrastructure, networking, and complete application architecture.
+I enjoy participating in hackathons and collaborative projects where I can work with a team to solve real-world problems. I’m particularly interested in building intelligent solutions for areas such as logistics, education, and automation.
 
-> **Learn. Build. Experiment. Improve. 🚀**
-
----
-
-## 🚀 What I'm Working On
-
-* 🧠 **C++ & Data Structures and Algorithms**
-* 🌐 **Systems & Networking** — building **NullMesh**, a from-scratch TCP/HTTP server
-* 🤖 **AI, LLMs & Agentic AI**
-* 🗺️ **AI-driven logistics and route optimization**
-* 🎓 **AI-powered academic information systems**
-* 💻 **Full-stack software development**
+My approach is simple: **Learn • Build • Experiment • Improve 🚀**
 
 ---
 
-## 🛠️ Technical Interests
+## 🚀 Currently Working On
 
-### Programming
+- 🤖 AI-powered applications and Agentic AI
+- 🗺️ AI-driven logistics and route optimization
+- 🎓 AI-powered academic information assistant
+- 🧠 Data Structures & Algorithms
+- 💻 Full-stack software development
 
-C • C++ • Python • Java • JavaScript • TypeScript
+## 🧠 Currently Learning
 
-### Software Development
-
-React • Node.js • REST APIs • Backend Development • Full-Stack Development
-
-### AI & Data
-
-Artificial Intelligence • Machine Learning • LLM Applications • Agentic AI • AI-assisted Systems
-
-### Systems & Infrastructure
-
-Computer Networking • TCP/IP • Socket Programming • Linux • CMake • Cloud Technologies
-
-### Databases & Tools
-
-MySQL • MongoDB • Git • GitHub • Figma
-
----
-
-## 🔭 Current Engineering Focus
-
-### NullMesh
-
-A from-scratch C++ networking project focused on understanding how servers work at a lower level.
-
-Current direction:
-
-```text
-TCP Server
-    ↓
-HTTP Server
-    ↓
-Advanced HTTP Server
-```
-
-The project is helping me understand:
-
-* Network sockets
-* TCP communication
-* HTTP internals
-* Client-server architecture
-* Operating-system networking interfaces
-* C++ systems programming
-
----
-
-## 📌 Selected Projects
-
-### 🗺️ RouteMind NER
-
-AI-enabled logistics and road-accessibility intelligence platform designed around route optimization, geographic data, and disruption awareness.
-
-### 🌐 NullMesh
-
-From-scratch C++ TCP and HTTP server focused on networking and systems programming.
-
-### 🐍 Python Engineering Console
-
-A Python engineering laboratory for exploring runtime behavior, data structures, filesystem operations, performance measurement, and computational concepts.
-
-### 💻 Nexus
-
-Full-stack task management application built while exploring frontend, backend, API design, and application architecture.
-
----
-
-## 🧠 How I Learn
-
-I prefer understanding the **reason behind a technology before implementing it**.
-
-My learning process:
-
-```text
-Problem
-   ↓
-Why?
-   ↓
-Purpose
-   ↓
-What exactly?
-   ↓
-How does it work?
-   ↓
-Implementation
-   ↓
-Test
-   ↓
-Experiment
-   ↓
-Measure
-   ↓
-Improve
-```
-
-I don't want to simply use abstractions — I want to understand what is happening underneath them.
-
----
+- Artificial Intelligence & Machine Learning
+- Agentic AI & LLM applications
+- Backend development
+- Cloud technologies
+- Advanced DSA & problem solving
 
 ## 🤝 Open to Collaborate On
 
-* AI/ML projects
-* LLM & Agentic AI applications
-* Systems and networking projects
-* Full-stack applications
-* Hackathons
-* Open-source projects
-* Practical engineering problems
+- AI/ML projects
+- Agentic AI applications
+- Full-stack applications
+- Hackathon projects
+- Innovative real-world solutions
+
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/>
+</p>
 
 ---
 
@@ -152,22 +76,22 @@ I don't want to simply use abstractions — I want to understand what is happeni
   </a>
 </p>
 
----
+
 
 ## ⚡ A Little More About Me
 
-* 🎓 Computer Engineering Student
-* 💻 Building with C++, Python, JavaScript and TypeScript
-* 🧠 Practicing DSA and problem solving
-* 🤖 Exploring AI, LLMs and Agentic AI
-* 🌐 Exploring systems programming and computer networking
-* 🚀 Learning through hands-on engineering projects
-* 🤝 Interested in hackathons, collaboration and open-source
+- 🎓 Computer Engineering Student
+- 🤖 Interested in AI, Agentic AI & LLMs
+- 💻 Passionate about software development
+- 🧠 Practicing DSA & problem solving
+- 🚀 Learning by building real-world projects
+- 🤝 Enjoy working in teams and participating in hackathons
 
 ---
 
 <p align="center">
-  <i>"Learn. Build. Experiment. Improve."</i> 🚀
+  <i>“Learn. Build. Experiment. Improve.”</i> 🚀
 </p>
 
 
+Make my profile readme.md professional now
